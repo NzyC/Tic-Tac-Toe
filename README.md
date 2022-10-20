@@ -1,18 +1,18 @@
-# Snake Game Clone
+# Tic Tac Toe Game Clone
 ## Description
 <br />
 <p>
-  This project is a basic clone of the common "snake" game using JavaScript, HTML, CSS. Below show the user interface of the game.
+  This project is a basic clone of the common "Tic Tac Toe" game using JavaScript, HTML, CSS. Below show the user interface of the game.
 </p>
 <div class="container">
-  <a href="https://github.com/NzyC/Snake-Game">
-    <img src="./assets/1.jpg" alt="Logo" width="600" height="545">
+  <a href="https://github.com/NzyC/Tic-Tac-Toe">
+    <img src="./assets/1.png" alt="Logo" width="600" height="545">
   </a>
-  <a href="https://github.com/NzyC/Snake-Game">
-    <img src="./assets/2.jpg" alt="Logo" width="600" height="545">
+  <a href="https://github.com/NzyC/Tic-Tac-Toe">
+    <img src="./assets/2.png" alt="Logo" width="600" height="545">
   </a>
-  <a href="https://github.com/NzyC/Snake-Game">
-    <img src="./assets/3.jpg" alt="Logo" width="600" height="545">
+  <a href="https://github.com/NzyC/Tic-Tac-Toe">
+    <img src="./assets/3.png" alt="Logo" width="600" height="545">
   </a>
 </div>
 <br />
@@ -24,7 +24,7 @@
 
 ### Installing
 
-* Find the code <a href="https://github.com/NzyC/Snake-Game"> here!</a>
+* Find the code <a href="https://github.com/NzyC/Tic-Tac-Toe">here!</a>
 ## Help & Contact
 
 Any advice for common problems or issues email me <a href="mailto:nidal.chowdhury1@gmail.com">here!</a>
@@ -42,4 +42,4 @@ LinkedIn</a>
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* Web Dev Simplified YT video on <a hre="https://www.youtube.com/watch?v=QTcIXok9wNY&ab_channel=WebDevSimplified">Basic JS Snake Game</a>
+* Web Dev Simplified YT video on <a hre="https://www.youtube.com/watch?v=Y-GkMjUZsmM&ab_channel=WebDevSimplified">Basic JS Tic Tac Toe Game</a>
