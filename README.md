@@ -6,7 +6,7 @@
 </p>
 <div class="container">
   <a href="https://github.com/NzyC/Tic-Tac-Toe">
-    <img src="./assets/1.png" alt="Logo" width="600" height="545">
+    <img src="./assets/1.png" alt="Logo" width="600" height="445">
   </a>
   <a href="https://github.com/NzyC/Tic-Tac-Toe">
     <img src="./assets/2.png" alt="Logo" width="600" height="445">
